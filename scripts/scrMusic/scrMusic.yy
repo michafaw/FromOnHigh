@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrMusic",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrMusic",
+  "parent":{
+    "name":"FromOnHigh",
+    "path":"FromOnHigh.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
