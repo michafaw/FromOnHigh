@@ -4,7 +4,7 @@ live_auto_call;
 
 if (objDooter.isPlaying) {
 	var dirToMouse = point_direction(mouse_x, mouse_y, x, y);
-	show_debug_message("Dir to mouse: " + string(dirToMouse));
+	//show_debug_message("Dir to mouse: " + string(dirToMouse));
 	direction = dirToMouse;
 	speed = maxSpeed;
 } else {

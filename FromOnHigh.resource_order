@@ -2,6 +2,7 @@
   "FolderOrderSettings":[
     {"name":"Extensions","order":2,"path":"folders/Extensions.yy",},
     {"name":"GMLive","order":1,"path":"folders/Extensions/GMLive.yy",},
+    {"name":"Audio","order":9,"path":"folders/Audio.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"GMLive_fallback","order":1,"path":"extensions/GMLive_fallback/GMLive_fallback.yy",},
@@ -16,6 +17,9 @@
     {"name":"GMLiveAPI_js","order":5,"path":"scripts/GMLiveAPI_js/GMLiveAPI_js.yy",},
     {"name":"GMLiveAPI","order":4,"path":"scripts/GMLiveAPI/GMLiveAPI.yy",},
     {"name":"scrMusic","order":8,"path":"scripts/scrMusic/scrMusic.yy",},
+    {"name":"trumpet_c6","order":3,"path":"sounds/trumpet_c6/trumpet_c6.yy",},
+    {"name":"trumpet_e5","order":1,"path":"sounds/trumpet_e5/trumpet_e5.yy",},
+    {"name":"trumpet_g5","order":2,"path":"sounds/trumpet_g5/trumpet_g5.yy",},
     {"name":"sprTraveler","order":3,"path":"sprites/sprTraveler/sprTraveler.yy",},
   ],
 }

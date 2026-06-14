@@ -12,6 +12,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"GMLive","folderPath":"folders/Extensions/GMLive.yy","name":"GMLive","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Audio","folderPath":"folders/Audio.yy","name":"Audio","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
@@ -41,6 +42,10 @@
     {"id":{"name":"GMLiveAPI_js","path":"scripts/GMLiveAPI_js/GMLiveAPI_js.yy",},},
     {"id":{"name":"GMLiveAPI","path":"scripts/GMLiveAPI/GMLiveAPI.yy",},},
     {"id":{"name":"scrMusic","path":"scripts/scrMusic/scrMusic.yy",},},
+    {"id":{"name":"trumpet_c5","path":"sounds/trumpet_c5/trumpet_c5.yy",},},
+    {"id":{"name":"trumpet_c6","path":"sounds/trumpet_c6/trumpet_c6.yy",},},
+    {"id":{"name":"trumpet_e5","path":"sounds/trumpet_e5/trumpet_e5.yy",},},
+    {"id":{"name":"trumpet_g5","path":"sounds/trumpet_g5/trumpet_g5.yy",},},
     {"id":{"name":"sprTraveler","path":"sprites/sprTraveler/sprTraveler.yy",},},
   ],
   "resourceType":"GMProject",
